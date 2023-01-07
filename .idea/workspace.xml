@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fb6a0f5-3a66-405e-8430-9dced537aded" name="Changes" comment="" />
+    <list default="true" id="0fb6a0f5-3a66-405e-8430-9dced537aded" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3301f7d6-5031-49d3-a3a3-53050fbbdd68-container.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/3301f7d6-5031-49d3-a3a3-53050fbbdd68-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5fc340f2-12a9-4298-9627-0cb53a79c928-container.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/5fc340f2-12a9-4298-9627-0cb53a79c928-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/749d2bef-b626-421a-87b4-3b35159ca11a-container.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/749d2bef-b626-421a-87b4-3b35159ca11a-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b4634759-2294-498a-b396-ca0f681bf02d-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/b4634759-2294-498a-b396-ca0f681bf02d-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/bdac2dfe-7219-4bd2-b0f3-3d051ce7d7d3-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/bdac2dfe-7219-4bd2-b0f3-3d051ce7d7d3-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/dc299916-11c3-45ec-912d-e1f1420e9abe-result.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/dc299916-11c3-45ec-912d-e1f1420e9abe-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e931cbb4-2f98-4499-8e21-8ce954d4fd6b-container.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/e931cbb4-2f98-4499-8e21-8ce954d4fd6b-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browsers.json" beforeDir="false" afterPath="$PROJECT_DIR$/browsers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/seleniumjavamavenjunit/MainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/seleniumjavamavenjunit/MainPageTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -31,6 +47,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "gauge",
     "vue.rearranger.settings.migration": "true"
   }
@@ -65,8 +85,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673114676407</updated>
-      <workItem from="1673114677595" duration="2000" />
+      <workItem from="1673114677595" duration="388000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1673114800739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673114800739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
