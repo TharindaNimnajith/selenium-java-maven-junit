@@ -1,1 +1,117 @@
-{"uuid":"d4e0c2af-808d-4790-b931-208395e1589f","historyId":"2ab805c8b3bef9346e955a6ad2c1a70","testCaseId":"[engine:junit-jupiter]/[class:com.example.seleniumjavamavenjunit.MainPageTest]/[method:search()]","testCaseName":"search()","fullName":"com.example.seleniumjavamavenjunit.MainPageTest.search","labels":[{"name":"junit.platform.uniqueid","value":"[engine:junit-jupiter]/[class:com.example.seleniumjavamavenjunit.MainPageTest]/[method:search()]"},{"name":"host","value":"Tharinda"},{"name":"thread","value":"9820@Tharinda.main(1)"},{"name":"framework","value":"junit-platform"},{"name":"language","value":"java"},{"name":"package","value":"com.example.seleniumjavamavenjunit.MainPageTest"},{"name":"testClass","value":"com.example.seleniumjavamavenjunit.MainPageTest"},{"name":"testMethod","value":"search"},{"name":"suite","value":"com.example.seleniumjavamavenjunit.MainPageTest"}],"links":[],"name":"search()","status":"passed","stage":"finished","description":"","steps":[{"name":"$(\"open\") https://www.jetbrains.com/","status":"passed","stage":"finished","steps":[{"name":"$(\"webdriver\") create()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1673115074667,"stop":1673115077518}],"attachments":[],"parameters":[],"start":1673115074653,"stop":1673115082746},{"name":"$(\"[data-test='site-header-search-action']\") click()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1673115082751,"stop":1673115082881},{"name":"$(\"[data-test='search-input']\") send keys(Selenium)","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1673115082881,"stop":1673115082968},{"name":"$(\"button[data-test='full-search-button']\") click()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1673115082968,"stop":1673115086364},{"name":"$(\"input[data-test='search-input']\") should have(attribute value=\"Selenium\")","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1673115086367,"stop":1673115086398}],"attachments":[],"parameters":[],"start":1673115074639,"stop":1673115086406}
+{
+  "uuid": "d4e0c2af-808d-4790-b931-208395e1589f",
+  "historyId": "2ab805c8b3bef9346e955a6ad2c1a70",
+  "testCaseId": "[engine:junit-jupiter]/[class:com.example.seleniumjavamavenjunit.MainPageTest]/[method:search()]",
+  "testCaseName": "search()",
+  "fullName": "com.example.seleniumjavamavenjunit.MainPageTest.search",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:com.example.seleniumjavamavenjunit.MainPageTest]/[method:search()]"
+    },
+    {
+      "name": "host",
+      "value": "Tharinda"
+    },
+    {
+      "name": "thread",
+      "value": "9820@Tharinda.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "com.example.seleniumjavamavenjunit.MainPageTest"
+    },
+    {
+      "name": "testClass",
+      "value": "com.example.seleniumjavamavenjunit.MainPageTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "search"
+    },
+    {
+      "name": "suite",
+      "value": "com.example.seleniumjavamavenjunit.MainPageTest"
+    }
+  ],
+  "links": [],
+  "name": "search()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "$(\"open\") https://www.jetbrains.com/",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "$(\"webdriver\") create()",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1673115074667,
+          "stop": 1673115077518
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1673115074653,
+      "stop": 1673115082746
+    },
+    {
+      "name": "$(\"[data-test='site-header-search-action']\") click()",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1673115082751,
+      "stop": 1673115082881
+    },
+    {
+      "name": "$(\"[data-test='search-input']\") send keys(Selenium)",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1673115082881,
+      "stop": 1673115082968
+    },
+    {
+      "name": "$(\"button[data-test='full-search-button']\") click()",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1673115082968,
+      "stop": 1673115086364
+    },
+    {
+      "name": "$(\"input[data-test='search-input']\") should have(attribute value=\"Selenium\")",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1673115086367,
+      "stop": 1673115086398
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1673115074639,
+  "stop": 1673115086406
+}
